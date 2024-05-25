@@ -1,0 +1,13 @@
+DEFINED_PHASES=install postinst pretend unpack
+DEPEND=sys-apps/coreutils app-arch/tar custom-models? ( app-arch/unzip )
+DESCRIPTION=Free and Open Source AI Image Upscaler for Linux, MacOS, and Windows
+EAPI=8
+HOMEPAGE=https://github.com/upscayl/upscayl
+IUSE=custom-models
+KEYWORDS=~amd64
+LICENSE=AGPL-3.0
+RDEPEND=!<media-gfx/upscayl-bin-2.10.9 sys-apps/coreutils app-arch/tar net-libs/nodejs dev-libs/nss media-libs/openjpeg media-libs/vips x11-libs/gtk+
+RESTRICT=mirror
+SLOT=0
+SRC_URI=https://github.com/upscayl/upscayl/releases/download/v2.10.9/upscayl-2.10.9-linux.deb custom-models? ( mirror+https://github.com/upscayl/custom-models/archive/refs/heads/main.zip -> custom-models.zip )
+_md5_=951dfbf3c6857345e33e3a9298872b01
