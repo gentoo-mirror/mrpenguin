@@ -3,6 +3,6 @@ dev-ml/ollama 9999: Get up and running with Llama 2, Mistral, Gemma, and other l
 gui-apps/swaync 9999: A simple notification daemon with a GTK gui for notifications and control center
 gui-wm/swayfx 9999: SwayFX: Sway, but with eye candy!
 media-gfx/upscayl 9999: Free and Open Source AI Image Upscaler for Linux, MacOS, and Windows
-media-gfx/upscayl-bin 2.9.9 2.10.0 2.10.9 2.11.0: Free and Open Source AI Image Upscaler for Linux, MacOS, and Windows
+media-gfx/upscayl-bin 2.9.9 2.10.0 2.10.9 2.11.0 2.11.5: Free and Open Source AI Image Upscaler for Linux, MacOS, and Windows
 media-plugins/scenefx 9999: A drop-in replacement for the wlroots scene API that allows wayland compositors to render surfaces with eye-candy effects
 sys-power/system76-power-openrc 9999: System76 Power Management
