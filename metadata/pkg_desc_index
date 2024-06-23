@@ -1,6 +1,7 @@
 app-admin/sudo-rs 9999: A memory safe implementation of sudo and su
 dev-ml/ollama 9999: Get up and running with Llama 3, Mistral, Gemma, and other large language models.
 gui-apps/swaync 9999: A simple notification daemon with a GTK gui for notifications and control center
+gui-apps/wlogout 9999: A wayland based logout menu
 gui-wm/swayfx 9999: SwayFX: Sway, but with eye candy!
 media-gfx/upscayl 9999: Free and Open Source AI Image Upscaler for Linux, MacOS, and Windows
 media-gfx/upscayl-bin 2.11.0 2.11.5: Free and Open Source AI Image Upscaler for Linux, MacOS, and Windows
