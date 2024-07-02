@@ -13,4 +13,4 @@ RESTRICT=mirror network-sandbox
 SLOT=0
 SRC_URI=custom-models? ( mirror+https://github.com/upscayl/custom-models/archive/refs/heads/main.zip -> custom-models.zip )
 _eclasses_=git-r3	fbb2889c81f3a05910c1524db69425c1
-_md5_=5e0beae6d773696650dea7dedac92bdd
+_md5_=f6cc06c064f5de1d10ee765db1d6c9c4
