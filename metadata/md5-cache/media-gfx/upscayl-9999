@@ -12,5 +12,5 @@ RDEPEND=!media-gfx/upscayl-bin net-libs/nodejs dev-libs/nss media-libs/openjpeg 
 RESTRICT=mirror network-sandbox
 SLOT=0
 SRC_URI=custom-models? ( mirror+https://github.com/upscayl/custom-models/archive/refs/heads/main.zip -> custom-models.zip )
-_eclasses_=git-r3	fbb2889c81f3a05910c1524db69425c1
+_eclasses_=git-r3	875eb471682d3e1f18da124be97dcc81
 _md5_=f6cc06c064f5de1d10ee765db1d6c9c4
