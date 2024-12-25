@@ -9,5 +9,5 @@ LICENSE=AGPL-3
 RDEPEND=!<media-gfx/upscayl-bin-2.15.0 sys-apps/coreutils app-arch/tar net-libs/nodejs dev-libs/nss media-libs/openjpeg media-libs/vips x11-libs/gtk+
 RESTRICT=mirror
 SLOT=0
-SRC_URI=https://github.com/upscayl/upscayl/releases/download/v2.15.0-pre-release/upscayl-2.15.0-pre-release-linux.deb custom-models? ( mirror+https://github.com/upscayl/custom-models/archive/refs/heads/main.zip -> custom-models.zip )
-_md5_=6649fcb10647124b01f5e112112008cb
+SRC_URI=https://github.com/upscayl/upscayl/releases/download/v2.15.0/upscayl-2.15.0-linux.deb custom-models? ( mirror+https://github.com/upscayl/custom-models/archive/refs/heads/main.zip -> custom-models.zip )
+_md5_=328ed4b9f8ffe7ea8349b3f65730ced1
