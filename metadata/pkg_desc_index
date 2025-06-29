@@ -3,7 +3,7 @@ dev-ml/ollama 9999: Get up and running with Llama 3, Mistral, Gemma, and other l
 gui-apps/swaylock-effects-second 9999: Swaylock, with fancy effects
 gui-apps/swaync 9999: A simple notification daemon with a GTK gui for notifications and control center
 gui-apps/wlogout 9999: A wayland based logout menu
-gui-libs/scenefx 0.2.1: A replacement for the wlroots scene API with eye-candy effects.
+gui-libs/scenefx 0.2.1 0.4.1: A replacement for the wlroots scene API with eye-candy effects.
 gui-wm/swayfx 9999: SwayFX: Sway, but with eye candy!
 media-gfx/upscayl 9999: Free and Open Source AI Image Upscaler for Linux, MacOS, and Windows
 media-gfx/upscayl-bin 2.11.0 2.11.5 2.15.0: Free and Open Source AI Image Upscaler for Linux, MacOS, and Windows
